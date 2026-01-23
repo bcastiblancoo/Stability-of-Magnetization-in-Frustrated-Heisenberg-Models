@@ -103,21 +103,13 @@ The framework is intentionally modular and will be extended to include:
 
 ```text
 .
-├── theory/
-│   ├── lswt_formalism.pdf
-│   ├── dispersion_relations.tex
-│   └── magnetization_derivation.tex
-│
 ├── numerics/
-│   ├── gauss_legendre.py
-│   ├── duffy_2d.py
-│   ├── duffy_3d.py
 │   └── magnetization.py
 │
 ├── figures/
 │   ├── mbz_2d.png
 │   ├── mbz_3d.png
-│   └── dispersions/
+│
 │
 ├── report/
 │   └── BECO_IndividualProject.pdf
