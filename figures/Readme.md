@@ -1,1 +1,4 @@
-Some plots obtained from the simulations
+Some plots obtained from the simulations:
+
+- Energy bands for the 2D square and 3D cubic lattices.
+- Preliminary results in the frustrated magnetization scenario.
