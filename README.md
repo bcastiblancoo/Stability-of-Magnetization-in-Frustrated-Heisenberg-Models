@@ -99,20 +99,13 @@ The framework is intentionally modular and will be extended to include:
 
 ---
 
-## Repository Structure (suggested)
+## Repository Structure
 
 ```text
-.
-├── numerics/
-│   └── magnetization.py
 │
 ├── figures/
-│   ├── mbz_2d.png
-│   ├── mbz_3d.png
 │
-│
-├── report/
-│   └── BECO_IndividualProject.pdf
+├── report-BECO_IndividualProject.pdf
 │
 └── README.md
 
