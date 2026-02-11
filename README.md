@@ -109,3 +109,7 @@ The framework is intentionally modular and will be extended to include:
 │
 └── README.md
 
+
+<img width="937" height="602" alt="PhaseDiagram-MagnetizationCorrections" src="https://github.com/user-attachments/assets/11287192-7164-48ae-9576-e40039458fd0" />
+<img width="872" height="742" alt="Radicand2" src="https://github.com/user-attachments/assets/eb366ac5-edfb-47e2-bc0d-73178570de4d" />
+
